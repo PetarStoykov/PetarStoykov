@@ -8,7 +8,7 @@ I'm currrently third year in Technical University of Sofia and I'm really enthus
 
 * 🌍  I'm based in Sofia, Bulgaria
 * ✉️  You can contact me at [p.stoykov122@gmail.com](mailto:p.stoykov122@gmail.com)
-* 🧠  I'm learning UI5, JavaScript
+* 🧠  I'm currently learning JavaScript.
 * ⚡  I'm basically Spider-Man at this point..Look at our names, they're the same!
 
 ### Skills
@@ -22,7 +22,3 @@ I'm currrently third year in Technical University of Sofia and I'm really enthus
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PetarStoykov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ps02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/PetarStoykov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarStoykov&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
