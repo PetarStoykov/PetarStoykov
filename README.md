@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Petar Stoykov
 =====================================================================================================================================
 
+Software Engineer Intern @ SAP
+------------------------------
 Software Engineer Undergraduate
 -------------------------------
 
-I'm currrently third year in Technical University of Sofia and I'm really enthusiastic about getting into real world projects.
+I'm currrently in year four as a student in Technical University of Sofia.
 
 * 🌍  I'm based in Sofia, Bulgaria
 * ✉️  You can contact me at [p.stoykov122@gmail.com](mailto:p.stoykov122@gmail.com)
-* 🧠  I'm currently learning JavaScript.
 * ⚡  I'm basically Spider-Man at this point..Look at our names, they're the same!
 
 ### Skills
